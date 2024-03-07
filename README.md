@@ -1,5 +1,9 @@
 # Multi-select Autocomplete Component
 
+## Live Demo
+
+The project is deployed and can be accessed [here](https://multi-select-case-phi.vercel.app/).
+
 ## Description
 
 This project implements a multi-select autocomplete component using Vite + React + TS + Tailwind CSS. The component allows users to search and select characters from the ["Rick and Morty" API](https://rickandmortyapi.com/api/character/).
