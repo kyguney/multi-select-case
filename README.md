@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-The project is deployed and can be accessed [here](https://multi-select-case-phi.vercel.app/).
+The project is deployed and can be accessed [here](https://multi-select-case.kyguney.com/).
 
 ## Description
 
